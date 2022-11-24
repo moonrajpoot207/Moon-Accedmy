@@ -1,0 +1,13 @@
+.courses{
+    padding-top: 0rem;
+}
+
+/* =============== MEDIA QUERIES STARTS (TABLETS) =============== */
+
+@media screen and (max-width: 1024px) {
+    .courses{
+        margin-top: 6rem;
+    }
+}
+
+/* =============== MEDIA QUERIES END (TABLETS) =============== */
